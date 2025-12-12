@@ -100,6 +100,7 @@ The agent uses four powerful tools before responding:
 
 
 
+
 ToolPurposeis_support_related()Filters out off-topic questionsget_faq_answer()Provides instant answers to common queriesextract_order_id()Finds order numbers in messagesdetect_urgency_and_tone()Detects urgency, negativity, and profanity
 The system prompt enforces professional behavior and escalation when needed.
 Response Rules (enforced via prompt):
